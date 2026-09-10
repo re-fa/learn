@@ -11,7 +11,7 @@ console.log("Hello World!");
 // the " ; " isn't very important in end line in code, but is very important in this example :
 
 console.log("Test ;");
-[Hello, World].forEach(alert);
+["Hello", "World"].forEach(alert);
 
 // in line { console.log("Test ;"); } the ; is very important to run this code 
 
