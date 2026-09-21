@@ -5,13 +5,9 @@ This repository summarizes my journey of learning various programming languages,
 ## 📂 Repository Structure
 
 Inside each main folder, there are numbered subdirectories tracking my daily progress. For example:
-* `c/01` represents **Day 1** of learning the C language.
+* `c/D-01` represents **Day 1** of learning the C language.
 
 This organizational structure applies to all directories located in the root of this repository.
-
-## 📅 Timeline
-
-My journey officially began on **Monday, September 21, 2026**, learning both C and JavaScript simultaneously.
 
 ## 🛠️ My Setup & Tools
 
