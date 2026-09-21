@@ -1,25 +1,27 @@
-# 🚀 My JavaScript Learning Journey
+# My Programming Journey 🚀
 
-Welcome to my repository! This project serves as a personal log and code playground documenting my journey into learning **JavaScript** from scratch. 
-
-## 📅 Timeline & Status
-* **Start Date:** Thursday, September 10, 2026
-* **Status:** In Progress ⏳
-
-## 📖 Learning Resource
-I am following the structured, comprehensive curriculum from **[The Modern JavaScript Tutorial (ar.javascript.info)](https://javascript.info)**, which covers everything from foundational programming concepts to advanced topics.
-
-## 🎯 Goals
-* Master core JavaScript concepts (Variables, Loops, Functions, Objects, etc.).
-* Understand asynchronous programming (Promises, Async/Await).
-* Learn DOM manipulation and browser interaction.
-* Build a solid foundation for future web development frameworks.
+This repository summarizes my journey of learning various programming languages, including **C** and **JavaScript**.
 
 ## 📂 Repository Structure
-Inside this repository, you will find:
-* **Code Exercises:** Small scripts and problem-solving solutions from the tutorial.
-* **Mini Projects:** Practical implementations of what I learn.
-* **Notes:** Personal takeaways and summaries of complex concepts.
 
----
-*🎒 "The best way to predict the future is to create it." - Happy Coding!*
+Inside each main folder, there are numbered subdirectories tracking my daily progress. For example:
+* `c/01` represents **Day 1** of learning the C language.
+
+This organizational structure applies to all directories located in the root of this repository.
+
+## 📅 Timeline
+
+My journey officially began on **Monday, September 21, 2026**, learning both C and JavaScript simultaneously.
+
+## 🛠️ My Setup & Tools
+
+I don't own a traditional PC or laptop; my entire development environment is built on an **Android tablet**. 
+
+* **Terminal:** [Termux](https://termux.dev)
+* **OS Environment:** **Ubuntu** (running inside Termux via `proot-distro`)
+
+> *"Even without professional tools, what matters most is having a professional mindset, achieving excellence with the minimum resources available."* 💡
+
+## 💡 About Me
+
+I am passionate about building infrastructure, diving deep into software engineering, and striving for excellence.
